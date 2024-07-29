@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Hangman (JavaScript)/*
+!/Hangman (JavaScript)/task/
+/Hangman (JavaScript)/task/*
+!/Hangman (JavaScript)/task/main.js
